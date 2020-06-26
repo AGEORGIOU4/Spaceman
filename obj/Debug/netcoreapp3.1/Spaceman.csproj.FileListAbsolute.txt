@@ -1,0 +1,12 @@
+/Users/andreasgeorgiou/Visual Studio Projects/Spaceman/Spaceman/bin/Debug/netcoreapp3.1/Spaceman.deps.json
+/Users/andreasgeorgiou/Visual Studio Projects/Spaceman/Spaceman/bin/Debug/netcoreapp3.1/Spaceman.runtimeconfig.json
+/Users/andreasgeorgiou/Visual Studio Projects/Spaceman/Spaceman/bin/Debug/netcoreapp3.1/Spaceman.runtimeconfig.dev.json
+/Users/andreasgeorgiou/Visual Studio Projects/Spaceman/Spaceman/bin/Debug/netcoreapp3.1/Spaceman.dll
+/Users/andreasgeorgiou/Visual Studio Projects/Spaceman/Spaceman/bin/Debug/netcoreapp3.1/Spaceman.pdb
+/Users/andreasgeorgiou/Visual Studio Projects/Spaceman/Spaceman/obj/Debug/netcoreapp3.1/Spaceman.csprojAssemblyReference.cache
+/Users/andreasgeorgiou/Visual Studio Projects/Spaceman/Spaceman/obj/Debug/netcoreapp3.1/Spaceman.AssemblyInfoInputs.cache
+/Users/andreasgeorgiou/Visual Studio Projects/Spaceman/Spaceman/obj/Debug/netcoreapp3.1/Spaceman.AssemblyInfo.cs
+/Users/andreasgeorgiou/Visual Studio Projects/Spaceman/Spaceman/obj/Debug/netcoreapp3.1/Spaceman.csproj.CoreCompileInputs.cache
+/Users/andreasgeorgiou/Visual Studio Projects/Spaceman/Spaceman/obj/Debug/netcoreapp3.1/Spaceman.dll
+/Users/andreasgeorgiou/Visual Studio Projects/Spaceman/Spaceman/obj/Debug/netcoreapp3.1/Spaceman.pdb
+/Users/andreasgeorgiou/Visual Studio Projects/Spaceman/Spaceman/obj/Debug/netcoreapp3.1/Spaceman.genruntimeconfig.cache
